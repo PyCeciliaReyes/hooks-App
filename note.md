@@ -4,3 +4,8 @@
 ```
 https://react-hook-form.com/docs
 ```
+
+2. Documentacion de TanStack Query:
+```
+https://tanstack.com/query/latest
+```
