@@ -9,3 +9,8 @@ https://react-hook-form.com/docs
 ```
 https://tanstack.com/query/latest
 ```
+
+3. Documentacion del custom useLayouEffect:
+```
+https://es.react.dev/reference/react/useLayoutEffect
+```
