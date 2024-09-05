@@ -11,12 +11,13 @@ import { createRoot } from 'react-dom/client';
 //import { Layout } from './05-useLayouEffect/Layout';
 //import { Memorize } from './06-memos/Memorize';
 //import { MemoHook } from './06-memos/MemoHook';
-import { CallBackHook } from './06-memos/CallBackHook';
+//import { CallBackHook } from './06-memos/CallBackHook';
+import { Padre } from './07-tarea-memo/Padre';
 
 import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <CallBackHook/>
+    <Padre/>
   </StrictMode>,
 )
