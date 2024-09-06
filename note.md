@@ -14,3 +14,7 @@ https://tanstack.com/query/latest
 ```
 https://es.react.dev/reference/react/useLayoutEffect
 ```
+4. Documentacion del useReducer:
+```
+https://es.react.dev/reference/react/useReducer
+```
