@@ -18,3 +18,13 @@ https://es.react.dev/reference/react/useLayoutEffect
 ```
 https://es.react.dev/reference/react/useReducer
 ```
+
+5. Documentacion actual de React Router:
+```
+https://reactrouter.com/en/main/upgrading/reach#update-locationprovider-to-browserrouter
+```
+
+6. Documentacion legacy de React Router:
+```
+https://v5.reactrouter.com/web/api/NavLink
+```
