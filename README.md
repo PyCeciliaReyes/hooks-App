@@ -1,5 +1,5 @@
 # Produndizando hooks - Generales:
-
+Seccion 9:
 - Profundizar en el tema de los Hooks
 
 - Crear otros customHooks
@@ -21,4 +21,15 @@
 - useMemo
 
 - useCallback
+
+Seccion 10:
+- useReducer
+
+- Reducers
+
+- Teoría de un reducer
+
+- Aplicación de TODOs
+
+- CRUD local
 
