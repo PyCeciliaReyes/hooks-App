@@ -1,10 +1,10 @@
 import { Navigate, Route, Routes } from 'react-router-dom';
-import { HomePage, AboutPage, Login } from './index';
+import { HomePage, AboutPage, Login, NavBar } from './index';
 
 export const MainApp = () => {
     return(
         <>
-            <h1>MainApp</h1>
+            <NavBar />
             <hr />
 
             <Routes>
