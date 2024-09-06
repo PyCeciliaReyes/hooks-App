@@ -33,3 +33,17 @@ Seccion 10:
 
 - CRUD local
 
+seccion 11:
+- Context
+
+- Provider
+
+- useContext
+
+- React Router
+
+- Links y NavLinks
+
+- CreateContext
+
+- SPA ( Single Page Application )
